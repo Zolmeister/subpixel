@@ -1,0 +1,7 @@
+# Ignore all images
+*
+
+# Keep image list
+!image-list
+!download.sh
+!.gitignore
